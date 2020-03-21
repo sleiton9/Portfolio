@@ -227,7 +227,8 @@
   /* About Section
    -------------------------------------------------------------------- */
   #about .profile-pic {
-    display: none;
+    margin-left: 130px;
+    margin-bottom: 20px;
   }
   #about .download .button {
     width: 100%;
