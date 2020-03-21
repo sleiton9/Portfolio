@@ -5,7 +5,7 @@ class Home extends React.Component {
     return (
       <div className="row banner">
         <div className="banner-text">
-          <h1 className="responsive-headline">I'm Sebastian G. Leiton.</h1>
+          <h1 className="responsive-headline">I'm Sebastian G. Leiton</h1>
           <h3>
             I'm a <span>electronic engineer</span> in training with an emphasis
             on controls and energy from the
