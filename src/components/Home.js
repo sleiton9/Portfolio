@@ -23,18 +23,30 @@ class Home extends React.Component {
           <hr />
           <ul className="social">
             <li>
-              <a href="https://www.facebook.com/sebas.g.leiton">
+              <a
+                href="https://www.facebook.com/sebas.g.leiton"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fa fa-facebook" />
               </a>
             </li>
 
             <li>
-              <a href="https://www.linkedin.com/in/sebastián-garzón-leiton-aa76b91a4/">
+              <a
+                href="https://www.linkedin.com/in/sebastián-garzón-leiton-aa76b91a4/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fa fa-linkedin" />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/sleiton9/?hl=es-la">
+              <a
+                href="https://www.instagram.com/sleiton9/?hl=es-la"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <i className="fa fa-instagram" />
               </a>
             </li>
