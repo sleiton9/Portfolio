@@ -12,8 +12,15 @@ class About extends React.Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>
-            I am an electronic engineer in training with an emphasis on controls and energy from the Pontificia Universidad Javeriana. I have knowledge in programming languages such as: C ++, Python and JavaScript. I have independently learned the web page design on the front end using the React JS library. I speak the English language and I also excel in project innovation.
-I am related to sports, which is why I am known for working as a team, and also for being very disciplined. I am interested in the area of internet of things and building automation.
+              I am an electronic engineer in training with an emphasis on
+              controls and energy from the Pontificia Universidad Javeriana. I
+              have knowledge in programming languages such as: C ++, Python and
+              JavaScript. I have independently learned the web page design on
+              the front end using the React JS library. I speak the English
+              language and I also excel in project innovation. I am related to
+              sports, which is why I am known for working as a team, and also
+              for being very disciplined. I am interested in the area of
+              internet of things and building automation.
             </p>
             <div className="row">
               <div className="columns contact-details">
@@ -34,8 +41,12 @@ I am related to sports, which is why I am known for working as a team, and also 
               </div>
               <div className="columns download">
                 <p>
-                  <a href="https://1drv.ms/b/s!Au3vsOe8MhL7dyVxXiYg6LhCYEg?e=k0OxrZ" className="button"  target="_blank"
-                rel="noopener noreferrer">
+                  <a
+                    href="https://1drv.ms/b/s!Au3vsOe8MhL7dyVxXiYg6LhCYEg?e=k0OxrZ"
+                    className="button"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <i className="fa fa-download" />
                     Download Resume
                   </a>
