@@ -98,8 +98,10 @@ class Resume extends React.Component {
               <p>
                 Throughout university and college I have learned different
                 programming languages and software management. As also
-                autonomously I did courses on development of front-end web pages
+                autonomously I did courses on development of front-end web
+                pages.
               </p>
+              <br></br>
               <div className="bars">
                 <ul className="skills">
                   <li>
